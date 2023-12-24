@@ -1,0 +1,354 @@
+{ url: 'https://example.com', d: 1 }
+{ url: 'https://www.iana.org/domains/example', d: 2 }
+{ url: 'http://www.icann.org/', d: 3 }
+{ url: 'https://meetings.icann.org/en/icann78', d: 4 }
+{ url: 'https://www.icann.org/ceosearch', d: 4 }
+{ url: 'https://www.icann.org/icann-photo-mosaic', d: 4 }
+{
+  url: 'https://www.icann.org/en/blogs/details/icann-debuts-updated-engagement-calendar-06-11-2023-en',
+  d: 4
+}
+{
+  url: 'https://www.icann.org/en/announcements/details/icann78-governmental-advisory-committee-communique-now-available-30-10-2023-en',
+  d: 4
+}
+{ url: 'https://www.icann.org/en/announcements', d: 4 }
+{ url: 'https://www.icann.org/en/blogs', d: 4 }
+{
+  url: 'https://www.icann.org/en/public-comment/proceeding/draft-report-of-the-root-zone-dnssec-algorithm-rollover-study-19-10-2023',
+  d: 4
+}
+{
+  url: 'https://www.icann.org/en/public-comment/proceeding/pilot-holistic-review-revised-terms-of-reference-tor-28-09-2023',
+  d: 4
+}
+{ url: 'https://www.icann.org/public-comments', d: 4 }
+{ url: 'https://learn.icann.org/', d: 4 }
+{ url: 'https://www.icann.org/en/engagement-calendar', d: 4 }
+{ url: 'https://subscribe.icann.org/', d: 4 }
+{
+  url: 'https://www.icann.org/resources/pages/social-media-2020-12-14-en',
+  d: 4
+}
+{ url: 'https://meetings.icann.org/en/', d: 4 }
+{ url: 'https://learn.icann.org/', d: 4 }
+{ url: 'https://www.icann.org/en/engagement-calendar', d: 4 }
+{ url: 'https://subscribe.icann.org/', d: 4 }
+{
+  url: 'https://www.icann.org/resources/pages/social-media-2020-12-14-en',
+  d: 4
+}
+{ url: 'https://meetings.icann.org/en/', d: 4 }
+{ url: 'https://aso.icann.org', d: 4 }
+{ url: 'https://ccnso.icann.org/', d: 4 }
+{ url: 'https://gnso.icann.org/', d: 4 }
+{ url: 'https://atlarge.icann.org', d: 4 }
+{ url: 'https://gac.icann.org', d: 4 }
+{
+  url: 'https://www.icann.org/resources/pages/octo-publications-2019-05-24-en ',
+  d: 4
+}
+{ url: 'https://www.youtube.com/user/ICANNnews', d: 4 }
+{ url: 'https://www.flickr.com/photos/icann/', d: 4 }
+{ url: 'https://learn.icann.org/', d: 4 }
+{ url: 'https://whois.icann.org/en', d: 4 }
+{ url: 'https://www.icann.org/privacy/policy', d: 3 }
+{  url: 'https://account.icann.org/authorize?redirect_uri=https://www.icann.org/oaut
+h&amp;client_id=0oa9o9k9rp8VUcyJL2p7&amp;nonce=6f5398ba-8a62-4370-99a8-e00d981b692d&amp;state=https://www.icann.org/',
+  d: 4}
+{
+  url: 'https://account.icann.org/registeraccount?redirect_uri=https://www.icann.or
+g/oauth&amp;client_id=0oa9o9k9rp8VUcyJL2p7&amp;nonce=6f5398ba-8a62-4370-99a8-e00d981b692d&amp;state=https://www.icann.org/',
+  d: 4
+}
+{ url: 'https://www.icann.org/history', d: 4 }
+{ url: 'https://info.icann.org/LP---Regional-Newsletter.html', d: 4 }
+{ url: 'https://subscribe.icann.org/', d: 4 }
+{
+  url: 'https://www.icann.org/resources/pages/regional-reports-2021-2021-08-24-en',
+  d: 4
+}
+{
+  url: 'https://www.icann.org/en/public-comment?sort-param=upcoming-date&amp;sort-d
+irection=asc&amp;upcoming-sort-param=upcoming-date&amp;upcoming-sort-direction=desc
+&amp;open-sort-param=open-closed-date&amp;open-sort-direction=asc&amp;pending-sort-param=pending-report-due-date&amp;pending-sort-direction=desc',
+  d: 4
+}
+{
+  url: 'https://www.icann.org/en/public-comment/upcoming-proceedings?sort-param=upcoming-date&amp;sort-direction=asc&amp;page=1',
+  d: 4
+}
+{
+  url: 'https://www.icann.org/en/public-comment?sort-param=upcoming-date&amp;sort-d
+irection=asc&amp;upcoming-sort-param=upcoming-date&amp;upcoming-sort-direction=desc
+&amp;open-sort-param=open-closed-date&amp;open-sort-direction=asc&amp;pending-sort-param=pending-report-due-date&amp;pending-sort-direction=desc',
+  d: 4
+}
+{
+  url: 'https://www.icann.org/en/public-comment/closed-proceedings?page=1&amp;sort-param=closed-date&amp;sort-direction=desc',
+  d: 4
+}
+{ url: 'https://www.icann.org/en/public-comment/about', d: 4 }
+{
+  url: 'https://www.icann.org/en/public-comment/other-public-consultations',
+  d: 4
+}
+{ url: 'https://icann.org/en/board-activities-and-meetings', d: 4 }
+{ url: 'https://www.icann.org/complaints-office', d: 4 }
+{
+  url: 'https://www.icann.org/resources/pages/domain-name-registrants-2017-06-20-en',
+  d: 4
+}
+{ url: 'https://www.iana.org/', d: 4 }
+{ url: 'https://www.icann.org/en/icann-acronyms-and-terms', d: 4 }
+{ url: 'https://newgtlds.icann.org/', d: 4 }
+{ url: 'https://pti.icann.org/', d: 4 }
+{ url: 'https://opendata.icann.org/', d: 4 }
+{ url: 'https://www.icann.org/compliance/complaint', d: 4 }
+{ url: 'https://www.icann.org/technology', d: 4 }
+{ url: 'https://www.icann.org/careers', d: 4 }
+{ url: 'http://www.iana.org/dnssec', d: 4 }
+{ url: 'http://stats.research.icann.org/dns/tld_report/', d: 4 }
+{ url: 'http://stats.research.icann.org/dns/tld_report/', d: 4 }
+{ url: 'https://www.iana.org/dnssec/ceremonies', d: 4 }
+{
+  url: 'http://gnso.icann.org/en/group-activities/inactive/2012/improvements',
+  d: 4
+}
+{ url: 'https://icann.org/en/board-activities-and-meetings', d: 4 }
+{ url: 'http://mm.icann.org/pipermail/ecadmin/', d: 4 }
+{ url: 'http://aoctracking.icann.org/', d: 4 }
+{ url: 'https://gac.icann.org', d: 4 }
+{ url: 'https://atlarge.icann.org/', d: 4 }
+{ url: 'https://aso.icann.org/', d: 4 }
+{ url: 'https://ccnso.icann.org/', d: 4 }
+{ url: 'https://gnso.icann.org/en/', d: 4 }
+{ url: 'https://www.icann.org/nomcom', d: 4 }
+{ url: 'https://www.icann.org/csc', d: 4 }
+{ url: 'https://www.icann.org/rzerc', d: 4 }
+{ url: 'https://features.icann.org/compliance', d: 4 }
+{ url: 'https://www.icann.org/registrar-library', d: 4 }
+{
+  url: 'https://www.icann.org/en/system/files/files/registrar-billing-faq-21dec21-en.pdf',
+  d: 4
+}
+{
+  url: 'http://www.icann.org/registrar-reports/accreditation-qualified-list.html',
+  d: 4
+}
+{ url: 'https://meetings.icann.org/en/calendar ', d: 4 }
+{ url: 'https://newgtlds.icann.org/en/', d: 4 }
+{
+  url: 'https://newgtlds.icann.org/en/announcements-and-media/case-studies ',
+  d: 4
+}
+{
+  url: 'https://www.icann.org/resources/registries/gtlds/v1/newgtlds.csv',
+  d: 4
+}
+{
+  url: 'https://newgtlds.icann.org/en/about/trademark-clearinghouse ',
+  d: 4
+}
+{ url: 'http://www.iana.org/domains/root/db', d: 4 }
+{ url: 'https://www.icann.org/public-comments/archive', d: 4 }
+{
+  url: 'http://www.icann.org/en/help/name-collision/report-problems',
+  d: 4
+}
+{
+  url: 'http://www.icann.org/resources/pages/privacy-policy-2021-03-05-ar',
+  d: 4
+}
+{
+  url: 'http://www.icann.org/resources/pages/privacy-policy-2021-03-05-es',
+  d: 4
+}
+{
+  url: 'http://www.icann.org/resources/pages/privacy-policy-2021-03-05-fr',
+  d: 4
+}
+{
+  url: 'http://www.icann.org/resources/pages/privacy-policy-2021-03-05-pt',
+  d: 4
+}
+{
+  url: 'http://www.icann.org/resources/pages/privacy-policy-2021-03-05-ru',
+  d: 4
+}
+{
+  url: 'http://www.icann.org/resources/pages/privacy-policy-2021-03-05-zh',
+  d: 4
+}
+{ url: 'http://www.youtube.com/icannnews', d: 4 }
+{ url: 'http://www.flickr.com/photos/icann', d: 4 }
+{
+  url: 'https://www.icann.org/resources/pages/global-newsletter',
+  d: 4
+}
+{ url: 'https://community.icann.org', d: 4 }
+{ url: 'http://learn.icann.org/', d: 4 }
+{
+  url: 'https://www.icann.org/resources/pages/groups-2012-02-06-en',
+  d: 4
+}
+{ url: 'https://www.icann.org/presidentsandceo-corner', d: 4 }
+{ url: 'https://www.icann.org/dprd', d: 4 }
+{ url: 'https://www.icann.org/complaints-office', d: 4 }
+{ url: 'https://lookup.icann.org/', d: 4 }
+{ url: 'https://www.icann.org/privacy', d: 4 }
+{ url: 'https://www.icann.org/privacy/policy', d: 4 }
+{ url: 'https://www.icann.org/privacy/tos', d: 4 }
+{ url: 'https://www.icann.org/privacy/cookies', d: 4 }
+{ url: 'https://www.icann.org/privacy/tos', d: 3 }
+{
+  url: 'https://account.icann.org/authorize?redirect_uri=https://www.icann.org/oaut
+h&amp;client_id=0oa9o9k9rp8VUcyJL2p7&amp;nonce=6f5398ba-8a62-4370-99a8-e00d981b692d&amp;state=https://www.icann.org/',
+  d: 4
+}
+{
+  url: 'https://account.icann.org/registeraccount?redirect_uri=https://www.icann.or
+g/oauth&amp;client_id=0oa9o9k9rp8VUcyJL2p7&amp;nonce=6f5398ba-8a62-4370-99a8-e00d981b692d&amp;state=https://www.icann.org/',
+  d: 4
+}
+{ url: 'https://www.icann.org/history', d: 4 }
+{ url: 'https://info.icann.org/LP---Regional-Newsletter.html', d: 4 }
+{ url: 'https://subscribe.icann.org/', d: 4 }
+{
+  url: 'https://www.icann.org/resources/pages/regional-reports-2021-2021-08-24-en',
+  d: 4
+}
+{
+  url: 'https://www.icann.org/en/public-comment?sort-param=upcoming-date&amp;sort-d
+irection=asc&amp;upcoming-sort-param=upcoming-date&amp;upcoming-sort-direction=desc
+&amp;open-sort-param=open-closed-date&amp;open-sort-direction=asc&amp;pending-sort-param=pending-report-due-date&amp;pending-sort-direction=desc',
+  d: 4
+}
+{
+  url: 'https://www.icann.org/en/public-comment/upcoming-proceedings?sort-param=upcoming-date&amp;sort-direction=asc&amp;page=1',
+  d: 4
+}
+{
+  url: 'https://www.icann.org/en/public-comment?sort-param=upcoming-date&amp;sort-d
+irection=asc&amp;upcoming-sort-param=upcoming-date&amp;upcoming-sort-direction=desc
+&amp;open-sort-param=open-closed-date&amp;open-sort-direction=asc&amp;pending-sort-param=pending-report-due-date&amp;pending-sort-direction=desc',
+  d: 4
+}
+{
+  url: 'https://www.icann.org/en/public-comment/closed-proceedings?page=1&amp;sort-param=closed-date&amp;sort-direction=desc',
+  d: 4
+}
+{ url: 'https://www.icann.org/en/public-comment/about', d: 4 }
+{
+  url: 'https://www.icann.org/en/public-comment/other-public-consultations',
+  d: 4
+}
+{ url: 'https://icann.org/en/board-activities-and-meetings', d: 4 }
+{ url: 'https://www.icann.org/complaints-office', d: 4 }
+{
+  url: 'https://www.icann.org/resources/pages/domain-name-registrants-2017-06-20-en',
+  d: 4
+}
+{ url: 'https://www.iana.org/', d: 4 }
+{ url: 'https://www.icann.org/en/icann-acronyms-and-terms', d: 4 }
+{ url: 'https://newgtlds.icann.org/', d: 4 }
+{ url: 'https://pti.icann.org/', d: 4 }
+{ url: 'https://opendata.icann.org/', d: 4 }
+{ url: 'https://www.icann.org/compliance/complaint', d: 4 }
+{ url: 'https://www.icann.org/technology', d: 4 }
+{ url: 'https://www.icann.org/careers', d: 4 }
+{ url: 'http://www.iana.org/dnssec', d: 4 }
+{ url: 'http://stats.research.icann.org/dns/tld_report/', d: 4 }
+{ url: 'http://stats.research.icann.org/dns/tld_report/', d: 4 }
+{ url: 'https://www.iana.org/dnssec/ceremonies', d: 4 }
+{
+  url: 'http://gnso.icann.org/en/group-activities/inactive/2012/improvements',
+  d: 4
+}
+{ url: 'https://icann.org/en/board-activities-and-meetings', d: 4 }
+{ url: 'http://mm.icann.org/pipermail/ecadmin/', d: 4 }
+{ url: 'http://aoctracking.icann.org/', d: 4 }
+{ url: 'https://gac.icann.org', d: 4 }
+{ url: 'https://atlarge.icann.org/', d: 4 }
+{ url: 'https://aso.icann.org/', d: 4 }
+{ url: 'https://ccnso.icann.org/', d: 4 }
+{ url: 'https://gnso.icann.org/en/', d: 4 }
+{ url: 'https://www.icann.org/nomcom', d: 4 }
+{ url: 'https://www.icann.org/csc', d: 4 }
+{ url: 'https://www.icann.org/rzerc', d: 4 }
+{ url: 'https://features.icann.org/compliance', d: 4 }
+{ url: 'https://www.icann.org/registrar-library', d: 4 }
+{
+  url: 'https://www.icann.org/en/system/files/files/registrar-billing-faq-21dec21-en.pdf',
+  d: 4
+}
+{
+  url: 'http://www.icann.org/registrar-reports/accreditation-qualified-list.html',
+  d: 4
+}
+{ url: 'https://meetings.icann.org/en/calendar ', d: 4 }
+{ url: 'https://newgtlds.icann.org/en/', d: 4 }
+{
+  url: 'https://newgtlds.icann.org/en/announcements-and-media/case-studies ',
+  d: 4
+}
+{
+  url: 'https://www.icann.org/resources/registries/gtlds/v1/newgtlds.csv',
+  d: 4
+}
+{
+  url: 'https://newgtlds.icann.org/en/about/trademark-clearinghouse ',
+  d: 4
+}
+{ url: 'http://www.iana.org/domains/root/db', d: 4 }
+{ url: 'https://www.icann.org/public-comments/archive', d: 4 }
+{
+  url: 'http://www.icann.org/en/help/name-collision/report-problems',
+  d: 4
+}
+{
+  url: 'http://www.icann.org/resources/pages/terms-of-service-2020-06-12-ar',
+  d: 4
+}
+{
+  url: 'http://www.icann.org/resources/pages/terms-of-service-2020-06-12-es',
+  d: 4
+}
+{
+  url: 'http://www.icann.org/resources/pages/terms-of-service-2020-06-12-fr',
+  d: 4
+}
+{
+  url: 'http://www.icann.org/resources/pages/terms-of-service-2020-06-12-pt',
+  d: 4
+}
+{
+  url: 'http://www.icann.org/resources/pages/terms-of-service-2020-06-12-ru',
+  d: 4
+}
+{
+  url: 'http://www.icann.org/resources/pages/terms-of-service-2020-06-12-zh',
+  d: 4
+}
+{ url: 'http://www.youtube.com/icannnews', d: 4 }
+{ url: 'https://www.linkedin.com/company/icann', d: 4 }
+{ url: 'http://www.flickr.com/photos/icann', d: 4 }
+{
+  url: 'https://www.icann.org/resources/pages/global-newsletter',
+  d: 4
+}
+{ url: 'https://community.icann.org', d: 4 }
+{ url: 'http://learn.icann.org/', d: 4 }
+{
+  url: 'https://www.icann.org/resources/pages/groups-2012-02-06-en',
+  d: 4
+}
+{ url: 'https://www.icann.org/presidentsandceo-corner', d: 4 }
+{ url: 'https://www.icann.org/dprd', d: 4 }
+{ url: 'https://www.icann.org/complaints-office', d: 4 }
+{ url: 'https://lookup.icann.org/', d: 4 }
+{ url: 'https://www.icann.org/privacy', d: 4 }
+{ url: 'https://www.icann.org/privacy/policy', d: 4 }
+{ url: 'https://www.icann.org/privacy/tos', d: 4 }
+{ url: 'https://www.icann.org/privacy/cookies', d: 4 }
+

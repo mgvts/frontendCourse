@@ -1,0 +1,17 @@
+{
+  "name": "my_crawler_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "teorJs": "ts-node ./exam/teorJs.ts"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^21.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
